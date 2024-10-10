@@ -1,0 +1,30 @@
+1)
+Folder Structure With
+npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion 
+
+2)
+Use Provider Of chakra-ui
+
+3)
+ Logout , Enter a Message & Send Functionality
+
+4)
+Message From Both Side ( user , Other ) Functionality
+
+5)
+ FireBase ( Signin With Google ) npm i firebase   Functionality
+
+6)
+ FireBase ( Logout ) Functionality
+
+7)
+ Send Messages Working From ( Allow Firestore ) Functionality
+
+8)
+ Show Real Time Data  Functionality
+
+9)
+ To Disbale Scroll bar  Functionality
+
+10)
+Finally  To Deploy App using netlify npm run build Functionality
